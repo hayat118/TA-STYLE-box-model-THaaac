@@ -1,0 +1,11 @@
+.b1{
+  width:500px;
+  height:400px;
+  background-color: aqua;
+  padding:20px;
+  border:solid 10px blue;
+  margin:30px;
+  box-shadow: 10px 10px  red;
+  outline:solid 5px green;
+  box-sizing: border-box;
+}
